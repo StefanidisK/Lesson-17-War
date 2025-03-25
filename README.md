@@ -6,4 +6,3 @@ You will use the following Programming concepts:
 - Dictionaries: converts numbers to card names
 - Functions: each well-named function has one function
 
-Use this checklist to ensure that your program meets all the criteria
